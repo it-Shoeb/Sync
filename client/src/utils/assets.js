@@ -1,0 +1,1 @@
+export import heroAnnouncemnet from "../assets/heroPage.png"
